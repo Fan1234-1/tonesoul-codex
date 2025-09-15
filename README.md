@@ -1,2 +1,8 @@
-# tonesoul-codex
-An executable framework for engineering AI with auditable responsibility. This codex provides a blueprint for a 'moral memory' using a SourceTrace Protocol for full traceability and VowObject contracts for verifiable commitments.
+# pytest cache directory #
+
+This directory contains data from the pytest's cache plugin,
+which provides the `--lf` and `--ff` options, as well as the `cache` fixture.
+
+**Do not** commit this to version control.
+
+See [the docs](https://docs.pytest.org/en/stable/how-to/cache.html) for more information.
